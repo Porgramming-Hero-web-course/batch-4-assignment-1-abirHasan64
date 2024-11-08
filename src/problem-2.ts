@@ -7,5 +7,5 @@
     return remove;
   };
   //   Sample input:
-  //   removeDuplicates([1, 2, 2, 2, 3, 4, 6, 3, 5, 20]);
+  // removeDuplicates([1, 2, 2, 2, 3, 4, 6, 3, 5, 20]);
 }
